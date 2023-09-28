@@ -1,4 +1,4 @@
-# 21 Lessons
+# 21 Lecciones
 
 This repository contains the LaTeX source code for the print version of *21
 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole*.
